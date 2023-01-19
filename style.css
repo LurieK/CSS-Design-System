@@ -1,0 +1,157 @@
+.heading {
+
+    text-align: center;
+
+}
+
+
+
+.colors {
+    padding: 30px;
+    border: 2px solid;
+    margin-top: 30px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.color-blocks{
+    display:flex;
+}
+
+#blue{
+    padding: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color: #62698E;
+    float: left;
+    margin-left: 20px;
+    
+}
+#grey{
+    padding: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color: #ECEAE9;
+    float: left;
+    margin-left: 20px;
+}
+    
+
+#purple{
+    padding: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color: #67327b;
+    float: left;
+    margin-left: 20px;
+}
+
+#gold {
+    padding: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color: #F0E68C;
+    float: left;
+    margin-left: 20px;
+}
+
+#light-blue {
+    padding: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color: #7cd3ee;
+    float: right;
+    margin-left: 20px;
+}
+.fonts {
+    padding: 30px;
+    border: 2px solid;
+    margin-top: 30px;
+}
+
+.railway  {
+    font-family: 'raleway';
+
+}
+
+#raleway-bold {
+    font-family: 'raleway';
+    font-weight: 700;
+}
+
+#raleway-italic {
+    font-family: 'raleway', sans-serif;
+    font-style: italic;
+}
+
+#raleway-reg {
+    font-family: 'raleway';
+}
+
+.bitter {
+    font-family: 'Bitter', serif;
+}
+
+#bitter-reg {
+    font-family: 'Bitter', serif;
+}
+
+#bitter-bold {
+    font-family: 'Bitter', serif;
+    font-weight: 700;
+}
+
+#bitter-italic {
+    font-family: 'Bitter', serif;
+    font-style: italic;
+}
+
+.dancing {
+    font-family: 'Dancing Script', cursive;
+}
+
+#dancing-reg {
+    font-family: 'Dancing Script', cursive;
+}
+
+#dancing-bold {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+
+
+.styles {
+    padding: 30px;
+    border: 2px solid;
+    margin-top: 30px;
+}
+
+#main-page{
+    font-family: 'raleway';
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#mp {
+    font-family: 'raleway';
+
+}
+
+#sub-heading {
+    font-family: 'raleway';
+    font-size: 30px;
+    font-weight: 400;
+}
+
+#sub{
+    font-family: 'raleway';
+}
+
+
+#paragraph {
+    font-family: 'Bitter', serif;
+    font-size: 14px;
+}
